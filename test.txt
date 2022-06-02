@@ -4,3 +4,5 @@ caches
 debugger
 else
 false
+WebGLProgram
+HashChangeEvent
